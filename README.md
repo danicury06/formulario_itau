@@ -1,24 +1,27 @@
-Autora:
+
+## Autora
+
 
 -	Daniela Ramalho Cury
 -	Tipo de deficiência: Auditiva Bilateral (oralizada e sinalizante)
 -	CID: H 90.3
 
-Objetivo:
+
+## Objetivo
 
 Elaborar um cadastro para os clientes para um site contendo os campos do formulário com validações e layout aprimorado.
 
-Ferramenta:
+## Ferramenta
 
 Visual Studio Code no MAC.
 
-Linguagens:
+## Linguagens
 
 - HTML
 - CSS
 - JavaScript
 
-Descrição do site:
+## Descrição do site
 
 1-	HTML: Estrutura/Hierarquia da página. 
 
